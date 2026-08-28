@@ -26,3 +26,6 @@ This repository contains my practical JavaScript implementations, logic building
 
 ---
 
+## Author
+
+Muhammad Sheraz | Software Engineer
